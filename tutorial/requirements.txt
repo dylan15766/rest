@@ -17,7 +17,7 @@ MarkupSafe==1.0
 oauth==1.0.1
 olefile==0.44
 pexpect==4.2.1
-Pillow==4.1.1
+Pillow==9.0.1
 pycrypto==2.6.1
 Pygments==2.2.0
 pytz==2018.4
